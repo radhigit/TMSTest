@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D1103C59-695B-49BF-9139-8094D939575D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4DFB645-4051-46CD-9376-48EADEA0F74E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TMSTests/TMSTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "example()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E4DFB645-4051-46CD-9376-48EADEA0F74E - 7779c2b1e39459c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for TMSTests.TMSTests.example() async throws -&gt; ()"
+                  moduleName = "TMSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knag08/Developer/TMS/TMSTests/TMSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20">
+               </Location>
+               <Location
+                  uuid = "E4DFB645-4051-46CD-9376-48EADEA0F74E - 7779c2b1e39459c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for TMSTests.TMSTests.example() async throws -&gt; ()"
+                  moduleName = "TMSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knag08/Developer/TMS/TMSTests/TMSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3200F33-64B6-49AF-ADB9-411A07B47E53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TMSTests/TMSTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "example()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F3200F33-64B6-49AF-ADB9-411A07B47E53 - a11d84f8b96f45ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for TMSTests.TMSTests.example() async throws -&gt; ()"
+                  moduleName = "TMSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knag08/Developer/TMS/TMSTests/TMSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19">
+               </Location>
+               <Location
+                  uuid = "F3200F33-64B6-49AF-ADB9-411A07B47E53 - 8bfeb8c956d43b12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for TMSTests.TMSTests.example() async throws -&gt; ()"
+                  moduleName = "TMSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knag08/Developer/TMS/TMSTests/TMSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19">
+               </Location>
+               <Location
+                  uuid = "F3200F33-64B6-49AF-ADB9-411A07B47E53 - 3d5f68df3dabedfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for TMSTests.TMSTests.example() async throws -&gt; ()"
+                  moduleName = "TMSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knag08/Developer/TMS/TMSTests/TMSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19">
+               </Location>
+               <Location
+                  uuid = "F3200F33-64B6-49AF-ADB9-411A07B47E53 - 7779c2b1e39459e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for TMSTests.TMSTests.example() async throws -&gt; ()"
+                  moduleName = "TMSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knag08/Developer/TMS/TMSTests/TMSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D79FF99-9E50-44F5-9475-DE4CE11B4DB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TMSTests/TMSTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "example()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86FBC2E4-6226-46A6-92B0-F26450CB129B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TMSTests/TMSTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "test_success()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
